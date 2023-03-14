@@ -1,1 +1,2 @@
-# NodeMysql_Integration
+# Nodejs + Mysql integration
+
